@@ -1,0 +1,24 @@
+
+{
+    "name": "Live Graphics",
+    "overview": "Swift live graphics packages powered by Metal.",
+    "keywords": ["Live", "Graphics", "Pixels"],
+    "packages": [
+        { "url": "https://github.com/heestand-xyz/PixelUI" },
+        { "url": "https://github.com/heestand-xyz/PixelKit" },
+        { "url": "https://github.com/heestand-xyz/VertexKit" },
+        { "url": "https://github.com/heestand-xyz/VoxelKit" },
+        { "url": "https://github.com/heestand-xyz/RenderKit" },
+        { "url": "https://github.com/heestand-xyz/SwiftFX" },
+        { "url": "https://github.com/heestand-xyz/ImageFX" },
+        { "url": "https://github.com/heestand-xyz/PixelMerger" },
+        { "url": "https://github.com/heestand-xyz/PixelColor" },
+        { "url": "https://github.com/heestand-xyz/Resolution" },
+        { "url": "https://github.com/heestand-xyz/DisplayLink" },
+        { "url": "https://github.com/heestand-xyz/TextureMap" },
+        { "url": "https://github.com/heestand-xyz/CoreGraphicsExtensions" }
+    ],
+    "author": {
+        "name": "Anton Heestand"
+    }
+}
